@@ -1,14 +1,10 @@
-# FREE RDP WINDOWS SERVER!
+# *RDP-E1*
 
-Create Free RDP 7GB RAM and 2 CPU Core with Github.
-Follow these instructions
+> *Create Free RDP 7GB RAM and 2 CPU Core with Github.*
 
-+ Click Fork to get started (Mobile users please activate Desktop Mode).
-+ Visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
-+ In this repository go to Settings> Secrets> New repository secret
-+ Name: NGROK_AUTH_TOKEN
-+ Value: https://dashboard.ngrok.com/auth/your-authtoken copy and paste authtoken in the value
-+ Click add secret
-+ Go to Action (if you see any watning click "I understand...") > FreeRDP > run workflow
-+ Refresh website - go to FreeRDP > build
-+ Click the down arrow "RDP INFO LOGIN" To get IP, User, Password.
+*__Follow these instructions:__*
+
+## Ngrok - Windows/Macos RDP
++ Click on Fork to get started.
++ In this repository go to Settings> Secrets> New repository secret set Name: `NGROK_AUTH_TOKEN` then set Value: [`Ngrok auth token`](https://dashboard.ngrok.com).
++ Go to Action Actions click on Ngrok - Windows/Macos RDP run the workflow.
