@@ -7,12 +7,12 @@ Free Windows 11 RDP (1 HOUR)
 ## METHOD:
 
 - Go to: [Katacoda Terminal](https://www.katacoda.com/openshift/courses/subsystems/container-internals-lab-2-0-part-1)
-- Click on **"START SCENARIO"**
+- Click on **START SCENARIO**
 - Wait till terminal process to finish.
 
 ### And paste the following commands:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/ImJanindu/Windows11-RDP/main/run.sh`
+1. `wget -O run.sh https://raw.githubusercontent.com/PRO-E5/RDP-E1/RDP/windows-11/files/run.sh`
 
 2. `chmod +x run.sh`
 
