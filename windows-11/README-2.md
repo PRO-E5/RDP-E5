@@ -13,8 +13,3 @@ Free Windows 11 RDP (4 HOURS)
 - `Do not close Katacoda Terminal.`
 - `Maximum time limit is 4 hours.`
 - `You can create many RDPs using this method.`
-
-## DISCLAIMER:
-
- - `Do not overuse this method.`
- - `No illegal things.`
