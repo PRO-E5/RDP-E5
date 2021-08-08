@@ -1,4 +1,4 @@
-name: Ngrok - Macos RDP
+name: Ngrok - Mac-os RDP
 on: 
   workflow_dispatch:
 defaults:
