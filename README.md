@@ -8,4 +8,4 @@
 + In this repository go to *Settings> Secrets> New repository secret* set **Name:** `NGROK_AUTH_TOKEN` then set **Value:** [`Ngrok auth token`](https://dashboard.ngrok.com).
 + Go to Actions click on **Ngrok - Windows RDP** then run the workflow.
 
-## Ngrok - Macos RDP
+## Ngrok - Mac-os RDP
